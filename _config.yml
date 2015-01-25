@@ -3,7 +3,7 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Cobly’s Blogß
+title:            Cobly’s Blog
 tagline:          The Maker
 url:              http://ctrefethen.github.io
 paginate:         1
