@@ -2,7 +2,7 @@
 layout:     post
 title:      "Colby's Book List"
 subtitle:   "Books that Colby has enjoyed reading"
-date:       2015-03-01 06:57:00
+date:       2016-03-01 06:57:00
 author:     "Colby"
 header-img: "img/post-bg-06.jpg"
 ---
@@ -17,3 +17,4 @@ header-img: "img/post-bg-06.jpg"
 * [Wonder](http://www.amazon.com/Wonder-R-J-Palacio/dp/0375869026/ref=sr_1_1?s=books&ie=UTF8&qid=1456845161&sr=1-1&keywords=Wonder) - R. J. Palacio
 * [Auggie and Me](http://www.amazon.com/Auggie-Me-Three-Wonder-Stories/dp/1101934859/ref=sr_1_1?s=books&ie=UTF8&qid=1456845201&sr=1-1&keywords=Auggie+and+Me) - R. J. Palacio
 * [Mangus Chase](http://www.amazon.com/Magnus-Chase-Gods-Asgard-Book/dp/1423160916/ref=sr_1_1?s=books&ie=UTF8&qid=1456845266&sr=1-1&keywords=Mangus+Chase) - Rick Riordan
+* [Mini Weapons of Mass Destruction]()
