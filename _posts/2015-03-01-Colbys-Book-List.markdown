@@ -14,3 +14,5 @@ header-img: "img/post-bg-06.jpg"
 * [Percy Jackson](http://www.amazon.com/s/ref=nb_sb_noss_2?url=search-alias%3Dstripbooks&field-keywords=Percy+Jackson) Rick Riordan
 * [Maze Runner Collection](http://www.amazon.com/The-Maze-Runner-Series/dp/0385388896) James Dashner
 * [Jinx](http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Jinx&rh=n%3A283155%2Ck%3AJinx) Sage Blackwood
+* [Wonder](http://www.amazon.com/Wonder-R-J-Palacio/dp/0375869026/ref=sr_1_1?s=books&ie=UTF8&qid=1456845161&sr=1-1&keywords=Wonder) R. J. Palacio
+* [Auggie and Me](http://www.amazon.com/Auggie-Me-Three-Wonder-Stories/dp/1101934859/ref=sr_1_1?s=books&ie=UTF8&qid=1456845201&sr=1-1&keywords=Auggie+and+Me) R. J. Palacio
