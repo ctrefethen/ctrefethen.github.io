@@ -18,3 +18,5 @@ header-img: "img/post-bg-06.jpg"
 * [Auggie and Me](http://www.amazon.com/Auggie-Me-Three-Wonder-Stories/dp/1101934859/ref=sr_1_1?s=books&ie=UTF8&qid=1456845201&sr=1-1&keywords=Auggie+and+Me) - R. J. Palacio
 * [Mangus Chase](http://www.amazon.com/Magnus-Chase-Gods-Asgard-Book/dp/1423160916/ref=sr_1_1?s=books&ie=UTF8&qid=1456845266&sr=1-1&keywords=Mangus+Chase) - Rick Riordan
 * [Mini Weapons of Mass Destruction]()
+
+![alt text](/img/pong.jpg "Pong image")
