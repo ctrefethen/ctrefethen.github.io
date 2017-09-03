@@ -19,4 +19,3 @@ header-img: "img/post-bg-06.jpg"
 * [Mangus Chase](http://www.amazon.com/Magnus-Chase-Gods-Asgard-Book/dp/1423160916/ref=sr_1_1?s=books&ie=UTF8&qid=1456845266&sr=1-1&keywords=Mangus+Chase) - Rick Riordan
 * [Mini Weapons of Mass Destruction]()
 
-![alt text](/img/pong.jpg "Pong image")
