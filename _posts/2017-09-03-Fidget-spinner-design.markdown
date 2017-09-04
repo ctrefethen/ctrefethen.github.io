@@ -8,7 +8,7 @@ header-img: "img/post-bg-06.jpg"
 ---
 <h1>Fidget Spinner Designs</h1>
 
-| Spinners      | Price | Picture       |
+| Name     | Price | Picture       |
 | ------------- |:------------:| -----:|
 | Simple Spinner|$10 |![alt text](/img/simple-spinner.jpg)| 
 | wheel spinner |$12 |![alt text](/img/wheel-spinner.jpg)|
