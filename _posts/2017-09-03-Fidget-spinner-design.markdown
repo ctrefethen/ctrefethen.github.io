@@ -10,7 +10,7 @@ header-img: "img/post-bg-06.jpg"
 
 | Name     | Price | Picture       |
 | ------------- |:------------:| -----:|
-| Simple Spinner|$10 |![alt text](/img/simple-spinner.jpg)| 
-| wheel spinner |$12 |![alt text](/img/wheel-spinner.jpg)|
-| two arm spinner |$9 |![alt text](/img/two-arm-spinner.jpg)|
-| batman spinner|$11 |![alt text](/img/batman-spinner.jpg)| 
+| Simple Spinner|$10 |![Simple Spinner](/img/simple-spinner.jpg)| 
+| Wheel Spinner |$12 |![Wheel Spinner](/img/wheel-spinner.jpg)|
+| Two Arm Spinner |$9 |![Two arm Spinner](/img/two-arm-spinner.jpg)|
+| Batman Spinner|$11 |![Batman Spinner](/img/batman-spinner.jpg)| 
