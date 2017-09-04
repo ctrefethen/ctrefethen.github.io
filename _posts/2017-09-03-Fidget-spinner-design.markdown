@@ -14,3 +14,4 @@ header-img: "img/post-bg-06.jpg"
 | Wheel Spinner |$12 |![Wheel Spinner](/img/wheel-spinner.jpg)|
 | Two Arm Spinner |$9 |![Two arm Spinner](/img/two-arm-spinner.jpg)|
 | Batman Spinner|$11 |![Batman Spinner](/img/batman-spinner.jpg)| 
+| Spiral Spinner |$14 |![alt text](/img/spiral.jpg)|
